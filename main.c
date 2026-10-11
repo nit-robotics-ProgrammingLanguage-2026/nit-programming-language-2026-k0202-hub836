@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    printf("Hello world\n");
+    printf("このノートは¥105です。");
     
     return 0;
 }
